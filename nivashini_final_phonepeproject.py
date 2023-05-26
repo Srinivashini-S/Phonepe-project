@@ -6,7 +6,7 @@ import pandas as pd
 import os
 import json
 import psycopg2
-db=psycopg2.connect(host='localhost', user='postgres', password='Niva666', port=5432, database="PhonePee")
+db=psycopg2.connect(host='localhost', user='postgres', password='Niva13', port=5432, database="PhonePee")
 cur=db.cursor()
 
 
