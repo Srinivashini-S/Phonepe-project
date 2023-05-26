@@ -1,5 +1,5 @@
 # Phonepe-project
-Phonepe-Pulse-Data-Visualization-and-Exploration
+Phonepe-Pulse-Data-Visualization-and-Exploration:
 The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
 
 Data Extraction: Clone the Phonepe pulse Github repository using git clone command. Load the data into a Pandas dataframe using libraries such as Pandas or csv. Preprocess the data and perform any necessary cleaning and transformation steps.
